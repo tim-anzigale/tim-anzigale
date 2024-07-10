@@ -7,24 +7,12 @@
 ## ⚙️ Tech Stack
 
 - **Languages**: Dart, JavaScript, HTML, CSS
-- **Frameworks**: Flutter, React, NodeJs
+- **Frameworks**: Flutter, React,[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+
 - **Tools**: Git, Docker, MongoDB
 
 ## 💡 My Aspirations
 
-I aspire to build great software products that make a difference in people’s lives.
+I aspire to build great software products.
 
-<!--
-**tim-anzigale/tim-anzigale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
